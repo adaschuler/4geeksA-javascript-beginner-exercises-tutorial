@@ -1,4 +1,5 @@
 var mySuperVariable = 'hello';
 console.log(mySuperVariable);
 
-// Your code below:
+var myColor='red';
+console.log(myColor);
